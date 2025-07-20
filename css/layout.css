@@ -1,0 +1,58 @@
+aside {
+  float: right;
+  position:fixed;
+  float: right;
+  width: 400px;
+  margin: 25px;
+  padding: 25px;
+  margin: 0 80em;
+}
+main {
+    width: 65vw;
+}
+header {
+    padding: 20px 0px;
+}
+header img {
+    position: absolute;
+    left: 41vw;
+    top: 2vw;
+}
+main img {
+    height: 250px;
+    width: 250px;
+    margin-right: 1em;
+}
+.topnav {
+  background-color: rgb( 17, 17, 17);
+  width: 100em;
+  overflow: hidden;
+  position: fixed;
+  font-family: "Courier New", Courier, monospace;
+  top: 0;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: rgb(245, 57, 57);
+  color: black;
+}
+.topnav a.active {
+  background-color: rgb(31, 161, 5);
+  color: white;
+}
+label,
+textarea,
+input[type="submit"],
+input[type="reset"] {
+  margin-left: 5px;
+}
+caption {
+  margin-top: 10px;
+}
