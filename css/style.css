@@ -10,7 +10,8 @@ td {
   color: rgb(31, 161, 5);
   font-family: "Courier New", Courier, monospace;
 }
-legend {
+legend,
+h4 {
   color: rgb(31, 161, 5);
   font-family: "Courier New", Courier, monospace;
   font-weight: bold;
